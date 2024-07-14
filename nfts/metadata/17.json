@@ -1,15 +1,15 @@
 {
-    "description": "Off utility nft",
-    "name": "Off #17",
-    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/17.png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "mosaic"
-        },
-        {
-            "trait_type": "Body",
-            "value": "comic_off"
-        }
-    ]
+	"description": "Off utility nft",
+	"name": "Off #17",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/nfts/images/17.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "mosaic"
+		},
+		{
+			"trait_type": "Body",
+			"value": "comic_off"
+		}
+	]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Off Utility",
-    "image": "https://raw.githubusercontent.com/client-off/off-nfts/logo.png",
-    "description": "Utility NFT for Off bot's",
-    "social_links": ["https://t.me/off_nft", "https://t/me/tgbio_off"]
-  }
+	"name": "Off Utility",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/logo.png",
+	"description": "Utility NFT for Off bot's",
+	"social_links": ["https://t.me/off_nft", "https://t/me/tgbio_off"]
+}

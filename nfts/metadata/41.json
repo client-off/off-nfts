@@ -1,15 +1,15 @@
 {
-    "description": "Off utility nft",
-    "name": "Off #41",
-    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/41.png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "coin"
-        },
-        {
-            "trait_type": "Body",
-            "value": "dark_off"
-        }
-    ]
+	"description": "Off utility nft",
+	"name": "Off #41",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/nfts/images/41.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "coin"
+		},
+		{
+			"trait_type": "Body",
+			"value": "dark_off"
+		}
+	]
 }

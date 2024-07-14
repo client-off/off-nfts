@@ -1,15 +1,15 @@
 {
-    "description": "Off utility nft",
-    "name": "Off #74",
-    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/74.png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "horror"
-        },
-        {
-            "trait_type": "Body",
-            "value": "pixel_comic_off"
-        }
-    ]
+	"description": "Off utility nft",
+	"name": "Off #74",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/nfts/images/74.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "horror"
+		},
+		{
+			"trait_type": "Body",
+			"value": "pixel_comic_off"
+		}
+	]
 }

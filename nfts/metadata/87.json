@@ -1,15 +1,15 @@
 {
-    "description": "Off utility nft",
-    "name": "Off #87",
-    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/87.png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "copper_coin"
-        },
-        {
-            "trait_type": "Body",
-            "value": "rare_off"
-        }
-    ]
+	"description": "Off utility nft",
+	"name": "Off #87",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/nfts/images/87.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "copper_coin"
+		},
+		{
+			"trait_type": "Body",
+			"value": "rare_off"
+		}
+	]
 }
