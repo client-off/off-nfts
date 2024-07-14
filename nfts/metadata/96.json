@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #96",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/96.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "silver_coin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dark_off"
+        }
+    ]
+}

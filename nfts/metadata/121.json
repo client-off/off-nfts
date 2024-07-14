@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #121",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/121.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "blured_coin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pixel_dark_off"
+        }
+    ]
+}

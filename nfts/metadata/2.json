@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #2",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/2.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "copper_coin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shadow_off"
+        }
+    ]
+}

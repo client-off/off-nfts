@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #106",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/106.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "green_light"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shadow_off"
+        }
+    ]
+}

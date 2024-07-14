@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #126",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/126.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "diamon_coin"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rare_off"
+        }
+    ]
+}

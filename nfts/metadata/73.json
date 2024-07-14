@@ -1,0 +1,15 @@
+{
+    "description": "Off utility nft",
+    "name": "Off #73",
+    "image": "https://raw.githubusercontent.com/client-off/off-nfts/nfts/images/73.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "horror"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pixel_rare_off"
+        }
+    ]
+}
