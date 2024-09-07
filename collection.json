@@ -1,6 +1,10 @@
 {
-	"name": "Off Utility",
+	"name": "Off NFT",
 	"image": "https://raw.githubusercontent.com/client-off/off-nfts/main/logo.png",
-	"description": "Utility NFT for Off bot's",
-	"social_links": ["https://t.me/off_lab", "https://t.me/tgbio_off"]
+	"description": "The owners of this NFT collection share 15% of the project's income each month.",
+	"social_links": [
+		"https://t.me/off_lab",
+		"https://t.me/off_lab_chat",
+		"https://telegra.ph/Off-Lab---karta-proekta-09-04"
+	]
 }
