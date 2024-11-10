@@ -1,0 +1,43 @@
+{
+	"name": "Legendary Booli #16",
+	"description": "investment NFT project NFT Bull",
+	"image": "https://magenta-selective-gayal-402.mypinata.cloud/ipfs/QmQe7jrt44j6yQCQaDyS9bUpjfp3egbn71varDKsgXdpxb/16.png",
+	"attributes": [
+		{
+			"trait_type": "Rarity",
+			"value": "Legendary "
+		},
+		{
+			"trait_type": "Background",
+			"value": "gradient lightink"
+		},
+		{
+			"trait_type": "Body",
+			"value": "body"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "rolling eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "angry mouth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "long hair"
+		},
+		{
+			"trait_type": "Earrings",
+			"value": "nothing"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "brown jacket"
+		},
+		{
+			"trait_type": "Item",
+			"value": "hand with diamond"
+		}
+	]
+}

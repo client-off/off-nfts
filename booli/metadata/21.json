@@ -1,0 +1,43 @@
+{
+	"name": "Booli #22",
+	"description": "investment NFT project NFT Bull",
+	"image": "https://magenta-selective-gayal-402.mypinata.cloud/ipfs/QmWrZiJvqtgLeMWA5Kx1NozXMn6PRefFgpYJH4h2AWGNjo/22.png",
+	"attributes": [
+		{
+			"trait_type": "Rarity",
+			"value": "Common"
+		},
+		{
+			"trait_type": "Background",
+			"value": "turquoise"
+		},
+		{
+			"trait_type": "Body",
+			"value": "body"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "wary look"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "open mouth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "long hair"
+		},
+		{
+			"trait_type": "Earrings",
+			"value": "silver earring"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "red shirt"
+		},
+		{
+			"trait_type": "Item",
+			"value": "hand with diamond"
+		}
+	]
+}
