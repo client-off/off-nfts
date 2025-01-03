@@ -1,0 +1,35 @@
+{
+	"name": "ARNI NFT #24",
+	"description": "Hold ARNI NFT and get ARNI token every week",
+	"image": "https://raw.githubusercontent.com/client-off/off-nfts/refs/heads/main/arni/images/23.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "default"
+		},
+		{
+			"trait_type": "Body",
+			"value": "body"
+		},
+		{
+			"trait_type": "Face",
+			"value": "old"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "standard eye"
+		},
+		{
+			"trait_type": "Jacket",
+			"value": "blue t-shirt"
+		},
+		{
+			"trait_type": "In Hand",
+			"value": "metalic knife"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "old"
+		}
+	]
+}
